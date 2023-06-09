@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+#first-input{
+    width: 550px;
+    
+    height: 50px;
+    border-radius: 6px;
+    font-size: 1.5rem;
+    padding-left: 5px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(8, 12, 238);
+    border: 1px solid white;
+}
+#taskinput{
+    
+    height: 50px;
+    border-radius: 6px;
+    margin-left: 5px;
+    color: white;
+    font-size: 1.25rem;
+    width: 100px;
+    background-color: rgb(8, 0, 0);
+    border: 1px solid white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#maindiv{
+    width: 100%;
+   
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#seconddiv{
+    
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 100vh;
+}
+.anewcss{
+    width: 550px;
+    height: 50px;
+   
+    border-radius: 8px;
+    padding-left: 5px;
+    color: rgb(247, 2, 194);
+    font-size: 1.25rem;
+    background-color: rgb(10, 5, 5);
+    border: 1px solid white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif, Geneva, Tahoma, sans-serif;
+    
+}
+.editcss{
+    height: 52px;
+    width: 70px;
+    
+    margin-left: 5px;
+    color: rgb(248, 8, 176);
+    font-size: 1.25rem;
+    border-radius: 8px;
+    background-color: rgb(8, 8, 8);
+    border: 1px solid white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.deletecss{
+
+    height: 52px;
+    width: 80px;
+   
+    margin-right:5px;
+    color: rgb(206, 6, 6);
+    font-size: 1.25rem;
+    border-radius: 8px;
+    background-color: rgb(3, 3, 3);
+    border: 1px solid white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#endofinputs{
+    background-image: linear-gradient(rgb(5, 5, 5),rgb(45, 173, 5));
+    
+}
+#endofinputs{
+    
+    width: 100%;
+    height: 100vh;
+    background-image: url(https://images.hdqwalls.com/download/the-predator-movie-4k-kp-1366x768.jpg);
+   background-repeat: no-repeat;
+}
+.big{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
